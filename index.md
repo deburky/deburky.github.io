@@ -15,6 +15,7 @@
 > This paper systematically reviews a series of major research contributions (76 papers) over the past eight years using statistical, machine learning and deep learning techniques to address the problems of credit risk.
 
 - [Machine Learning in Retail Credit Risk: Algorithms, Infrastructure, and Alternative Data — Past, Present, and Future | NVIDIA](https://www.nvidia.com/en-us/on-demand/session/gtcspring21-s31327/)
+
 > A lecture on how machine learning (ML) is reshaping credit risk models: learn about new methods to build transparent ML in highly regulated environments, how deep learning is surfacing alternative financial data and making it more useful, and how on-premises GPU computing is accelerating model development.
 
 - [The Use of Machine Learning for Credit Underwriting | FinRegLab](https://finreglab.org/ai-machine-learning/explainability-and-fairness-of-machine-learning-in-credit-underwriting/the-use-of-ml-for-credit-underwriting-market-data-science-context/)
@@ -50,14 +51,33 @@
 
 <details>
   <summary>Other sources | Under review </summary>
+  <p>
+  <a href="https://doi.org/10.1214/aos/1016218223">Additive logistic regression: a statistical view of boosting</a><br>
+  </p>
 
-  <a href="https://doi.org/10.1214/aos/1016218223">Jerome Friedman. Trevor Hastie. Robert Tibshirani. "Additive logistic regression: a statistical view of boosting (With discussion and a rejoinder by the authors)." Ann. Statist. 28 (2) 337 - 407, April 2000.</a><br>
+  <p>
+  <a href="https://ieeexplore.ieee.org/document/6137279">Random Forest Based Feature Induction.</a><br>
+  </p> 
 
+  <p>
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074325">Calibrating Random Forests for Probability Estimation.</a><br>
+  </p>
+
+  <p>
   <a href="https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html">Why model calibration matters and how to achieve it | The Unofficial Google Data Science Blog</a><br>
+  </p>
 
+  <p>
   <a href="https://amueller.github.io/aml/04-model-evaluation/11-calibration.html">Calibration, Imbalanced Data |  Applied Machine Learning in Python</a><br>
+  </p>
 
+  <p>
   <a href="https://www.fast.ai/posts/2017-11-13-validation-sets.html">How (and why) to create a good validation set</a><br>
+  </p>
+
+  <p>
+  <a href="https://blog.openmined.org/federated-credit-scoring/">Federated Learning for Credit Scoring</a><br>
+  </p>
 
 </details>
 
@@ -85,10 +105,13 @@
 
 <details>
   <summary>Other sources | Under review </summary>
-
+  <p>
   <a href="https://www.youtube.com/watch?v=rLCLIUmd9SE&ab_channel=MLOpsLearners">Graph Neural Networks: Theory, Problem, and Approaches | MLOps Learners</a><br>
+  </p>
 
+  <p>
   <a href="https://huggingface.co/blog/intro-graphml">Introduction to Graph Machine Learning | Hugging Face</a><br>
+  </p>
 
 </details>
 
@@ -132,7 +155,7 @@
 
 <details>
   <summary>Other sources | Under review</summary>
-
+  <p>
   <a href="https://theeffectbook.net/index.html">The Effect: An Introduction to Research Design and Causality</a><br>
-
+  </p>
 </details>
