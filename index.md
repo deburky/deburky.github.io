@@ -51,6 +51,7 @@
 
 <details>
   <summary>Other sources | Under review </summary>
+  <br>
   <p>
   <a href="https://doi.org/10.1214/aos/1016218223">Additive Logistic Regression: a Statistical View of Boosting</a><br>
   </p>
@@ -64,7 +65,11 @@
   </p>
 
   <p>
-  <a href="https://www.unofficialgoogledatascience.com/2021/04/why-model-calibration-matters-and-how.html">Why Model Calibration Matters and How to Achieve It | The Unofficial Google Data Science Blog</a><br>
+  <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5074325">Beware Default Random Forest Importances</a><br>
+  </p>
+  
+  <p>
+  <a href="https://explained.ai/rf-importance/">Why Model Calibration Matters and How to Achieve It - The Unofficial Google Data Science Blog</a><br>
   </p>
 
   <p>
@@ -105,6 +110,7 @@
 
 <details>
   <summary>Other sources | Under review </summary>
+  <br>
   <p>
   <a href="https://www.youtube.com/watch?v=rLCLIUmd9SE&ab_channel=MLOpsLearners">Graph Neural Networks: Theory, Problem, and Approaches | MLOps Learners</a><br>
   </p>
@@ -155,6 +161,7 @@
 
 <details>
   <summary>Other sources | Under review</summary>
+  <br>
   <p>
   <a href="https://theeffectbook.net/index.html">The Effect: An Introduction to Research Design and Causality</a><br>
   </p>
