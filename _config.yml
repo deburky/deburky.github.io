@@ -1,4 +1,4 @@
 title: Applied Credit Risk
-description: A collection of sources on recent advances and valuable research in the area of applied credit risk
+description: A collection of sources in the area of applied credit risk management
 markdown: kramdown
-remote_theme: pages-themes/primer@v0.6.0
+remote_theme: "dracula/gh-pages"

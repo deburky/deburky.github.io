@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-![Header](images/ea9464db-32b5-4693-a424-46dd7409bef5.jpeg)
+![Header](1-e-2-f-3-h-4-j.png)
 
 ## Contents
 
@@ -31,6 +31,7 @@
 > This paper proposes an end-to-end corporate rating model development methodology using machine learning. A core model architecture (design) is made up of a concatenation of a Light-GBM classifier (risk differentiation), a probability calibrator (risk quantification) and a rating attribution (assignment) system. A must-read for everyone who wants to understand the potential of ML in Credit Risk Modeling.
 
 - [PSD2 Explainable AI Model for Credit Scoring](https://arxiv.org/abs/2011.10367)
+
 > This paper presents an explainable credit risk model design based solely on open-data account transactions (PSD2). The paper also provides detailed guidance on feature engineering of raw transactional risk drivers for probability of default (PD) models.
 
 - [Deep Neural Networks for Behavioral Credit Rating](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7824729/)
@@ -69,7 +70,7 @@
   </p>
   
   <p>
-  <a href="https://explained.ai/rf-importance/">Why Model Calibration Matters and How to Achieve It - The Unofficial Google Data Science Blog</a><br>
+  <a href="https://explained.ai/rf-importance/">Why Model Calibration Matters and How to Achieve It | The Unofficial Google Data Science Blog</a><br>
   </p>
 
   <p>
