@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-![Header](1-e-2-f-3-h-4-j.png)
+![Header](1-e-2-f-3-h-4-j.jpg)
 
 ## Contents
 
