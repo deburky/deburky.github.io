@@ -1,7 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
 ![Header](images/header.jpg)
-
 ## 📖 Table of Contents
 
 - [📖 Table of Contents](#-table-of-contents)
@@ -128,7 +127,6 @@
   <p>
   <a href="https://www.fast.ai/posts/2017-11-13-validation-sets.html">How (and Why) to Create a Good Validation Set</a><br>
   </p>
-  <p>
 </details>
 
 ## 🧪 AI/ML Model Governance
