@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-![Header](images/1-e-2-f-3-h-4-j.jpg)
+![Modeling](images/thinking_positively.jpg)
 
 ## 📖 Table of Contents
 
@@ -129,6 +129,8 @@
   </p>
   <p>
 </details>
+
+![Governance](images/explainability.jpg)
 
 ## 🧪 AI/ML Model Governance
 ### 👨‍🔬 General - Model Governance
