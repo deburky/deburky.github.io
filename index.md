@@ -193,10 +193,11 @@
 <details>
   <summary>Other sources | Under review</summary>
   <br>
-  <a href="https://juanitorduz.github.io/interpretable_ml">Exploring Tools for Interpretable Machine Learning</a><br>
-  </p>
   <p>
   <a href="https://www.insightpartners.com/ideas/responsible-ai-governance/">Investor POV: AI Governance and Responsible Use</a><br>
+  </p>
+  <p>
+  <a href="https://juanitorduz.github.io/interpretable_ml">Exploring Tools for Interpretable Machine Learning</a><br>
   </p>
   <p>
   <a href="https://domino.ai/blog/shap-lime-python-libraries-part-1-great-explainers-pros-cons">SHAP and LIME Python Libraries: Part 1 - Great Explainers, with Pros and Cons to Both</a><br>
