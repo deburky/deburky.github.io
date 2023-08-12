@@ -128,6 +128,7 @@
   <a href="https://www.fast.ai/posts/2017-11-13-validation-sets.html">How (and Why) to Create a Good Validation Set</a><br>
   </p>
 </details>
+ <br>
 
 ## 🧪 AI/ML Model Governance
 ![Governance](images/explainability.jpg)
