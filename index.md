@@ -1,6 +1,6 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://makeapullrequest.com)
 
-![Modeling](images/thinking_positively.jpg)
+![Header](images/header.jpg)
 
 ## 📖 Table of Contents
 
@@ -17,6 +17,7 @@
   - [🫱‍🫲 Fairness](#fairness)
 
 ## 📏 Credit Risk Modeling
+![Modeling](images/thinking_positively.jpg)
 ### 👩‍🔬 General - Credit Risk Modeling
 
 - [Machine Learning-Driven Credit Risk: A Systemic Review](https://link.springer.com/article/10.1007/s00521-022-07472-2)
@@ -130,9 +131,8 @@
   <p>
 </details>
 
-![Governance](images/explainability.jpg)
-
 ## 🧪 AI/ML Model Governance
+![Governance](images/explainability.jpg)
 ### 👨‍🔬 General - Model Governance
 
 - [What Is AI Model Governance?](https://www.forbes.com/sites/forbestechcouncil/2021/08/02/what-is-ai-model-governance/)
